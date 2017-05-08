@@ -10,6 +10,9 @@ namespace GitVSDemo
     {
         static void Main(string[] args)
         {
+            // local changes for remote repository
+
+            // some more local changes
         }
     }
 }
