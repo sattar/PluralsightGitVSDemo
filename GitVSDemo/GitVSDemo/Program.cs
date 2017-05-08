@@ -13,6 +13,8 @@ namespace GitVSDemo
             // local changes for remote repository
 
             // some more local changes
+
+            // more changes
         }
     }
 }
