@@ -17,6 +17,8 @@ namespace GitVSDemo
             // more changes
 
             // last change before push
+
+            // feature 1.1 change
         }
     }
 }
