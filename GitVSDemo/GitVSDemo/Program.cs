@@ -20,7 +20,7 @@ namespace GitVSDemo
 
             // feature 1.1 change
 
-            // additional 1.1 change
+            // additional 1.1 change(s)
         }
     }
 }
